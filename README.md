@@ -27,16 +27,23 @@ An intuitive, beautifully designed AI health assistant built with Python and Str
 Follow these simple steps to get the app running on your local machine:
 
 **1. Clone the repository**
-bash
+```bash
 git clone https://github.com/riteshh-01/Disease-Prediction-System.git
 cd Disease-Prediction-System
+
 **2. Install dependencies**
 Make sure you have Python installed, then run the following command to install the required libraries:
 ```bash
 pip install -r requirements.txt
+**3. Run the Application**
+Start the local Streamlit server by running:
+```bash
+streamlit run main3.py
 
+---
 
-👨‍💻 Author
-Ritesh Kumar Anand
-Github: @riteshh-01
+> ## 👨‍💻 Author
+> **ritesh Kumar Anand**
+> * **GitHub:** [@riteshh-01](https://github.com/riteshh-01)
+
 
