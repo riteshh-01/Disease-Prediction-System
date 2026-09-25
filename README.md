@@ -18,7 +18,7 @@ An intuitive, beautifully designed AI health assistant built with Python and Str
 ---
 
 ## 📸 Sneak Peek
-![App Demo]{demo.png}
+![App Demo](demo.png)
 
 ---
 
