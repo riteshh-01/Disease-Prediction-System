@@ -27,6 +27,16 @@ An intuitive, beautifully designed AI health assistant built with Python and Str
 Follow these simple steps to get the app running on your local machine:
 
 **1. Clone the repository**
+bash
+git clone https://github.com/riteshh-01/Disease-Prediction-System.git
+cd Disease-Prediction-System
+**2. Install dependencies**
+Make sure you have Python installed, then run the following command to install the required libraries:
 ```bash
-git clone [https://github.com/yourusername/disease-prediction-system.git](https://github.com/yourusername/disease-prediction-system.git)
-cd disease-prediction-system
+pip install -r requirements.txt
+
+
+👨‍💻 Author
+Ritesh Kumar Anand
+Github: @riteshh-01
+
