@@ -18,9 +18,7 @@ An intuitive, beautifully designed AI health assistant built with Python and Str
 ---
 
 ## 📸 Sneak Peek
-
-*(Add a screenshot of your beautiful UI here by replacing the link below)*
-> `<img src="https://via.placeholder.com/800x400.png?text=Add+App+Screenshot+Here" alt="App Screenshot" width="100%">`
+![App Demo]{demo.png}
 
 ---
 
